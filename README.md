@@ -42,3 +42,20 @@ Un `Makefile` est fourni pour automatiser le processus. Sur macOS (Intel ou Appl
 
 ```bash
 make run
+--- DEMARRAGE DE LA SIMULATION ONTOLOGIQUE ---
+>> BLOC MINE : 00001ace7d0acef31a07db68cd089dd6b7424a13256cfbacacb739e283acf84e (Nonce: 1863658070)
+
+[Identite] Alice Public Key: ba8c2e3783...
+[Identite] Bob Public Key:   4c3bc0d7be...
+
+[Mempoold] Transaction recue: Alice envoie 50 Sats a Bob
+[Crypto] Signature validee (Mathematiquement prouve).
+
+[Mining] Demarrage des reacteurs thermodynamiques...
+>> BLOC MINE : 000007d2d17b80e587784587ffb5fcecd5c792bfe68ee0e22f443449222b34e7 (Nonce: 71589)
+
+--- ETAT DE LA CHAINE ---
+Bloc #0 | Hash: 00001ace7d0acef31a07db68cd089dd6b7424a13256cfbacacb739e283acf84e | Prev: 0000000000...
+Bloc #1 | Hash: 000007d2d17b80e587784587ffb5fcecd5c792bfe68ee0e22f443449222b34e7 | Prev: 00001ace7d...
+
+La realite est maintenant immuable.
