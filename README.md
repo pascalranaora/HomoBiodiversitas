@@ -6,7 +6,7 @@ Bienvenue sur le dépôt officiel du projet **Homo Cryptographicus**. Ce répert
 
 **Version 1.0 — December 2025**   
 *Authors: [Pascal Ranaora] — Open Source under CC-BY-SA 4.0*
-![Sufficiency Protocol](https://github.com/pascalranaora/sufficiency-protocol/blob/main/SustainableBitcoin.png)
+![HomoCryptographicus](https://github.com/pascalranaora/HomoCryptographicus/blob/main/HomoCryptographicus.jpg)
 ---
 
 ## 📚 Contenu du Dépôt
