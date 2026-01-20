@@ -14,7 +14,7 @@ Bienvenue sur le dépôt officiel du projet **Homo Cryptographicus**. Ce répert
 ### 1. [Livre] [Homo Cryptographicus](https://tinyurl.com/homocryptographicus) (PDF)
 Le manuscrit complet structuré en 12 chapitres. Une exploration profonde de la **Physique Numérique**, de l'**Individu Souverain** et de la **Société Modulaire**. Il pose les bases de l'Informatique Ontologique.
 
-### 2. [Simulation] Le Noyau (The Kernel)
+### 2. [Simulation] [Le Noyau (The Kernel)](https://github.com/pascalranaora/HomoCryptographicus/tree/main/Simulation)
 Une implémentation fonctionnelle en C++ démontrant les piliers du livre :
 * **Preuve de Travail (PoW)** : Transmutation de l'énergie en immuabilité.
 * **Identité Cryptographique** : Signatures asymétriques pour la souveraineté de l'action.
