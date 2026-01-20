@@ -23,6 +23,11 @@ Une implémentation fonctionnelle en C++ démontrant les piliers du livre :
 ### 3. [Fiction] Horizon Zéro : 2044 (PDF)
 Le versant narratif (Hard SF) qui simule l'application de ces théories dans un futur proche. Découvrez la lutte pour le "Protocole de Confiance" dans un monde dominé par les alliages à haute entropie et la suprématie quantique.
 
+### 4. [Articles Scientifiques] (PDFs)
+* **Densité Thermodynamique de l'Information Numérique : L'Indice Oméga (Ω) et l'Ancrage de la Vérité par OpenTimestamps** -- 16 janvier 2026
+* **Le Mécanisme de Higgs-Nakamoto : Brisure Spontanée de la Symétrie des Difféomorphismes Temporels dans les Théories des Champs sur Réseau Dissipatifs** -- 20 janvier 2026
+
+L'authenticité temporel des différents documents est auditable via https://opentimestamps.org/ Télécharger les fichiers pdf et preuves temporelles OTS et les glisser sur le site pour attester quand (à quel bloc de la timechain Bitcoin) les documents ont été écrits.
 ---
 
 ## 💻 Installation et Simulation
