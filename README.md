@@ -11,18 +11,24 @@ Bienvenue sur le dépôt officiel du projet **Homo Cryptographicus**. Ce répert
 
 ## 📚 Contenu du Dépôt
 
-### 1. [Livre] Homo Cryptographicus (PDF)
+### 1. [Livre] [Homo Cryptographicus](https://tinyurl.com/homocryptographicus) (PDF)
 Le manuscrit complet structuré en 12 chapitres. Une exploration profonde de la **Physique Numérique**, de l'**Individu Souverain** et de la **Société Modulaire**. Il pose les bases de l'Informatique Ontologique.
 
-### 2. [Simulation] Le Noyau (The Kernel)
+### 2. [Articles Scientifiques] (PDFs)
+* **[Densité Thermodynamique de l'Information Numérique : L'Indice Oméga (Ω) et l'Ancrage de la Vérité par OpenTimestamps](https://tinyurl.com/densiteinformation)** -- 16 janvier 2026
+* **[Le Mécanisme de Higgs-Nakamoto : Brisure Spontanée de la Symétrie des Difféomorphismes Temporels dans les Théories des Champs sur Réseau Dissipatifs](https://tinyurl.com/HiggsNakamoto)** -- 20 janvier 2026
+
+### 3. [Simulation] [Le Noyau (The Kernel)](https://github.com/pascalranaora/HomoCryptographicus/tree/main/Simulation)
 Une implémentation fonctionnelle en C++ démontrant les piliers du livre :
 * **Preuve de Travail (PoW)** : Transmutation de l'énergie en immuabilité.
 * **Identité Cryptographique** : Signatures asymétriques pour la souveraineté de l'action.
 * **Timechain** : Flèche du temps mathématique inviolable.
 
-### 3. [Fiction] Horizon Zéro : 2044 (PDF)
+### 4. [Une Fiction] [Horizon Zéro : 2044](https://tinyurl.com/horizonzero2044) (PDF)
 Le versant narratif (Hard SF) qui simule l'application de ces théories dans un futur proche. Découvrez la lutte pour le "Protocole de Confiance" dans un monde dominé par les alliages à haute entropie et la suprématie quantique.
 
+
+#### L'authenticité temporel des différents documents est auditable via https://opentimestamps.org/. Télécharger les fichiers pdf et preuves temporelles OTS et les glisser sur le site pour attester quand (à quel bloc de la timechain Bitcoin) les documents ont été écrits.
 ---
 
 ## 💻 Installation et Simulation
