@@ -1,6 +1,6 @@
 # 🌐 Homo Biodiversitas : Le Code Source Retrouvé 
 
-> Update Majeure : l'HomoCryptographicus hard fork en Homo Biodiversitas. La cryptographie nous permet de protéger le code source originel. La fin du jeu est de préserver la vie.
+> Update Majeure : l'HomoCryptographicus hard fork en Homo Biodiversitas. La cryptographie nous permet de protéger le code source originel. La fin de la simulation est de préserver la vie.
 > "Nous sommes le grand arbre de l'humanité : le code source a été retrouvé"
 > Coming soon mon manifeste pour la Biodiversité. On a réussi. Satoshi a trouvé le code "The Theory of Everything". 
 **Version 2.0 — February 2026**   
