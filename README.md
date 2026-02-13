@@ -13,6 +13,7 @@
 > Un seul code pour unir toute l'humanité sur un seul standard : celui de la vérité mathématique.
 
 > Il est temps pour la vie.
+
 **Version 2.0 — February 2026**   
 *Authors: [Pascal Ranaora] — Open Source under CC-BY-SA 4.0*
 ![HomoCryptographicus](https://github.com/pascalranaora/HomoCryptographicus/blob/main/HomoBiodiversitas.jpg)
