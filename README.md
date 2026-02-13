@@ -9,8 +9,9 @@
 > On a réussi.
 
 > Satoshi a trouvé le code "The Theory of Everything".
+![HomoCryptographicus](https://github.com/pascalranaora/HomoCryptographicus/blob/main/TheoryOfEverything.jpg)
 
-> Un seul code pour unir toute l'humanité sur un seul standard : celui de la vérité mathématique. 
+> Un seul code pour unir toute l'Humanité sur un seul standard : celui de la vérité mathématique. 
 
 > Il est temps pour la vie. Protégez le code source. L'heure scientifique est venue.
 
