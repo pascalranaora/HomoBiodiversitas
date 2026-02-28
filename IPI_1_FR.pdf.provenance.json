@@ -1,0 +1,22 @@
+{
+  "kind": 1040,
+  "created_at": 1772240386,
+  "tags": [
+    [
+      "x",
+      "0edb0ede5dd3f264ac9a4cbb079a3753d0511d6987a0a3c24a72ecc93d30ce24"
+    ],
+    [
+      "filename",
+      "IPI_1_FR.pdf"
+    ],
+    [
+      "size_bytes",
+      "436143"
+    ]
+  ],
+  "content": "Je certifie la provenance cryptographique de ce fichier binaire à cet instant précis.",
+  "pubkey": "929b62d1d54090b224f6e73f31e78ebe76df5e3822f891a4a542343dba8eed51",
+  "id": "22d58eb0f260bef0f3dc8d7106367d24a4356f077efe300ce25e2f9df92b7999",
+  "sig": "a8087ddb9d9f6c736f124f2046f39e63062ef9aee6cb752b3237e64f74da7edfc6a2dbbd9fc6a62e9e9bbd778d6225fc0351b09ade41b783b5d6632269291c38"
+}
